@@ -1,1 +1,2 @@
 Adding a new file to test github action. 
+npm init playwright@latest

@@ -1,0 +1,23 @@
+{
+  "name": "playwright_test_demo",
+  "version": "1.0.0",
+  "description": "Adding a command to execute the tests",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olusina/playwright_test_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Olusina/playwright_test_demo/issues"
+  },
+  "homepage": "https://github.com/Olusina/playwright_test_demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.6"
+  }
+}
